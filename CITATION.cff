@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this repository in your research, please cite the associated publication."
+
+title: "A Next-Generation Multi-Scale CNN with Residual Gradient Stability and Adaptive Channel Recalibration Using RSE-MNet"
+
+type: software
+
+authors:
+
+* family-names: "Hadi"
+  given-names: "Sahibzada Jawad"
+
+repository-code: "https://github.com/sahibzadajawad/RSE-MNet-CIFAR100"
+
+abstract: >
+Official PyTorch implementation of RSE-MNet (Residual Squeeze-Enhanced
+Multi-Scale Network), a deep convolutional neural network integrating
+residual learning, squeeze-and-excitation attention, and multi-scale
+feature extraction for fine-grained image classification.
+
+keywords:
+
+* Deep Learning
+* Computer Vision
+* Image Classification
+* CIFAR-100
+* Convolutional Neural Networks
+* Residual Learning
+* Squeeze-and-Excitation
+* Multi-Scale Learning
+* PyTorch
+* Fine-Grained Recognition
+
+license: MIT
+
+version: 1.0.0
+
+date-released: 2026-06-03
+
+preferred-citation:
+type: article
+title: "A Next-Generation Multi-Scale CNN with Residual Gradient Stability and Adaptive Channel Recalibration Using RSE-MNet"
+authors:
+- family-names: "Hadi"
+given-names: "Sahibzada Jawad"
+journal: "PLOS ONE"
+year: 2026
