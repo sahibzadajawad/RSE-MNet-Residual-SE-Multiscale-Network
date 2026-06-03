@@ -1,6 +1,6 @@
-# RSE-MNet: Residual Squeeze-Enhanced Multi-Scale Network for Fine-Grained Image Classification
+# A Next-Generation Multi-Scale CNN with Residual Gradient Stability and Adaptive Channel Recalibration Using RSE-MNet
 
-Official PyTorch implementation of **RSE-MNet (Residual Squeeze-Enhanced Multi-Scale Network)**, a novel deep convolutional architecture that integrates **Residual Learning**, **Squeeze-and-Excitation (SE) Channel Attention**, and **Multi-Scale Convolutional Feature Extraction** into a unified framework for fine-grained visual recognition.
+Official PyTorch implementation of **A Next-Generation Multi-Scale CNN with Residual Gradient Stability and Adaptive Channel Recalibration Using RSE-MNet)**, a novel deep convolutional architecture that integrates **Residual Learning**, **Squeeze-and-Excitation (SE) Channel Attention**, and **Multi-Scale Convolutional Feature Extraction** into a unified framework for fine-grained visual recognition.
 
 RSE-MNet is designed to address the limitations of conventional convolutional neural networks by simultaneously improving gradient propagation, channel-wise feature discrimination, and multi-scale spatial representation learning. The architecture combines residual identity mappings, adaptive channel recalibration, and heterogeneous convolutional branches (3×3, 5×5, and 7×7) to capture both local and global contextual information.
 
@@ -199,7 +199,7 @@ If you use this repository in your research, please cite the associated publicat
 
 ```bibtex
 @article{RSEMNet2026,
-  title={RSE-MNet: Residual Squeeze-Enhanced Multi-Scale Network for Fine-Grained Image Classification},
+  title={A Next-Generation Multi-Scale CNN with Residual Gradient Stability and Adaptive Channel Recalibration Using RSE-MNet},
   author={Sahibzada Jawad Hadi, Irfan Ahmed, Abid Iqbal, Saad Arif},
   journal={PLOS ONE},
   year={2026}
