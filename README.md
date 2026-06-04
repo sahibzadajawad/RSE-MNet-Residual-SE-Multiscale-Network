@@ -193,20 +193,7 @@ The framework achieves a strong balance between representational power, optimiza
 
 ---
 
-# Citation
 
-If you use this repository in your research, please cite the associated publication.
-
-```bibtex
-@article{RSEMNet2026,
-  title={A Next-Generation Multi-Scale CNN with Residual Gradient Stability and Adaptive Channel Recalibration Using RSE-MNet},
-  author={Sahibzada Jawad Hadi, Irfan Ahmed, Abid Iqbal, Saad Arif},
-  journal={PLOS ONE},
-  year={2026}
-}
-```
-
----
 
 # Authors
 
